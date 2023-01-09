@@ -8,3 +8,8 @@
     
 - [x] **Python & Tableau** - 
     * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [here](https://github.com/seuwenfei/KPMG_Virtual_Internship)
+    
+- [x] **SQL** - 
+    * Business Intelligence: Review the PostgreSQL Script $\leadsto$ [here]()
+    
+- [x] **Excel** - 
