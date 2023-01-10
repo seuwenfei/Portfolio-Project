@@ -10,7 +10,7 @@
     * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [view](https://github.com/seuwenfei/KPMG_Virtual_Internship)
     
 - [x] **SQL** - 
-    * Business Intelligence: Review the PostgreSQL Script $\leadsto$ [view]()
+    * Airlines Dataset $\parallel$ Database Query (PostgreSQL) $\leadsto$ [view script]()
     
 - [x] **Excel** - 
 
