@@ -8,11 +8,7 @@
     
 - [x] **Python & Tableau** - 
     * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [view](https://github.com/seuwenfei/KPMG_Virtual_Internship)
-    
-- [x] **SQL** - 
-    * Airlines Dataset $\parallel$ Database Query (PostgreSQL) $\leadsto$ [view script]()
-    
-- [x] **Excel** - 
+
 
 - [x] **Google Data Studio** - 
     * Ecommerce Dashboard $\leadsto$ [view](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
