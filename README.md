@@ -10,7 +10,7 @@
     * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [view](https://github.com/seuwenfei/KPMG_Virtual_Internship)
 
 - [x] **SQL (PostgreSQL) & Tableau** - 
-    * Airlines Database $\parallel$ Database Query and Flight Ticket Sales Analysis $\leadsto$ [view](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
+    * Airlines Database $\parallel$ Database Query & Flight Ticket Sales Analysis Dashboard $\leadsto$ [view](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
 
 - [x] **Google Data Studio** - 
     * Ecommerce Dashboard $\leadsto$ [view](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
