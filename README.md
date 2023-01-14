@@ -1,5 +1,5 @@
 # Portfolio Projects
-## Following are my projects in Python, Tableau, SQL & Google Data Studio, Java
+## Following are my projects in Python, Tableau, SQL, Google Data Studio, Java
 
 - [x] **Python** - 
     * Thriller, Crime, Action Dataset $\parallel$ Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
